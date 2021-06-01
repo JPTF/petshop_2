@@ -1,1 +1,16 @@
-[{"id":"b65394dd-32fa-40ae-bf27-0552f693e303","nome":"Danna","descricao":"Banho","preco":"65","ilustracao":""}]
+[
+    {
+        "id": "28ad0623-9b79-41b7-a2c5-bd1650a1351b",
+        "nome": "Banho de cachorro",
+        "descricao": "Banho de cachorro",
+        "preco": "45",
+        "ilustracao": "uploads/ilustracao1622508296938.jpg"
+    },
+    {
+        "id": "1e5e346c-1fcd-4a7d-ac94-9ce01c5343cb",
+        "nome": "Tosa cachorro",
+        "descricao": "Tosa completa de cachorro",
+        "preco": "60",
+        "ilustracao": "uploads/ilustracao1622508345865.jpg"
+    }
+]

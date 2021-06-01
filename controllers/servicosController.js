@@ -20,7 +20,10 @@ const servicosController = {
         return response.render('servicosCadastro', { titulo: 'Cadastrar Serviço'});
     },
     salvar: (request, response) => {
-        let {nome, descricao, preco, ilustracao } = request.body;
+        let {nome, descricao, preco} = request.body;
+
+        /** pega el nombre del archivo (upload) */
+        let ilustracao = request.file.path;
         
         /* adiciono el nuevo servicio al array*/
         servicos.push({id: uuid(), nome, descricao, preco, ilustracao });
