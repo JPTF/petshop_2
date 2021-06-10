@@ -17,3 +17,5 @@ O usuario acessou a url: /admin/servicos/cadastro
 O usuario acessou a url: /admin/servicos/cadastro 
 O usuario acessou a url: /admin/servicos/cadastro 
 O usuario acessou a url: /admin/servicos/cadastro 
+O usuario acessou a url: /login 
+O usuario acessou a url: /favicon.ico 
